@@ -4,7 +4,7 @@ Simple NodeJS app.
 
 ## Usage
 
-Accepts a POST request to the route “/test” with one argument “string_to_cut”
+Accepts a POST request to the route “/test” with one argument “string_to_cut” <br />
 Returns a JSON object with the key “return_string” and a string containing every third letter from the original string
 
 ## Link
