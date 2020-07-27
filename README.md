@@ -9,5 +9,5 @@ Returns a JSON object with the key “return_string” and a string containing e
 
 ## Link
 
-To see expected behavior you can test against a working example with the command: 
-curl -X POST https://7et3t.sse.codesandbox.io/test --data '{"string_to_cut": "iamyourlyftdriver"}' -H 'Content-Type: application/json'
+To see expected behavior you can test against a working example with the command: <br />
+<code>curl -X POST https://7et3t.sse.codesandbox.io/test --data '{"string_to_cut": "iamyourlyftdriver"}' -H 'Content-Type: application/json'</code>
